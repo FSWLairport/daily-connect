@@ -34,7 +34,7 @@
             <title>Version 2.9.3</title>
             <pubDate>Tue, 01 Sep 2026 09:39:33 +0000</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/daily-connect/releases/download/v2.9.3/DailyConnect-Debian-x64.deb"
+                url="https://github.com/FSWLairport/daily-connect/releases/download/v2.9.3/DailyConnect-Linux-x64.AppImage"
                 sparkle:version="2.9.3" sparkle:os="linux" />
         </item>
     </channel>
